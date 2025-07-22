@@ -44,9 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/angelxp11/angelxp11/output/snake.svg" alt="Snake animation" />
-
-###
